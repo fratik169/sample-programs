@@ -399,7 +399,7 @@ These rules help grow and cultivate the community in a positive manner.
 [writing-testable-code]: #writing-testable-code
 [running-tests-locally]: #running-tests-locally
 [adding-a-testinfoyml]: #adding-a-testsinfoyml
-[plagarism]: #plagiarism
+[plagiarism]: #plagiarism
 
 [sample-programs-issues]: https://github.com/TheRenegadeCoder/sample-programs/issues
 
