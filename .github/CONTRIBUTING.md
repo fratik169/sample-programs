@@ -21,7 +21,7 @@ for as many languages as possible.
     -   [Requirements for a New Language][requirements-for-a-new-language] 
 -   [Tests in Detail][tests-in-detail]
     -   [Writing Testable Code][writing-testable-code]
-    -   [Running Tests Locally][writing-tests-locally]
+    -   [Running Tests Locally][running-tests-locally]
     -   [Adding a testsinfo.yml][adding-a-testinfoyml]
 -   [Plagiarism][plagiarism]
 
